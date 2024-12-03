@@ -339,7 +339,6 @@ class MyGame(arcade.Window):
 
         self.setup()  # 씬과 스프라이트 초기화
 
-
 def main():
     """Main function"""
     window = MyGame()
