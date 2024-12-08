@@ -19,7 +19,7 @@
 2. Optlympic.exe를 실행하면 게임이 시작됩니다.  
 <img src="https://github.com/user-attachments/assets/4f55bbaf-ff2a-4747-afb2-b4840e544584" width="10%">  
 
-
+<a name="게임-방법"></a>
 ## 게임 방법 🎮
 1. 메인에서 START를 눌러 바로 게임을 시작할 수 있습니다.  
    <img src="https://github.com/user-attachments/assets/addf62a6-dd25-42b7-83e1-28f45e66dcec" width="50%">
@@ -51,9 +51,11 @@
 ### tip
 - 바람은 실시간으로 변합니다. 바람이 강하게 부는 순간을 노려보세요.
 
+<a name="게임-플레이-영상"></a>
 ## 게임 플레이 영상 🎬
 [게임 플레이 영상 보기](https://www.youtube.com/watch?v=aDH-qo-069Q)
 
+<a name="사용된 기술"></a>
 ## 사용된 기술 🧑‍💻
 - [Python](https://www.python.org/)
 - [Arcade](https://api.arcade.academy/en/latest/#)
