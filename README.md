@@ -55,7 +55,7 @@
 ## 게임 플레이 영상 🎬
 [게임 플레이 영상 보기](https://www.youtube.com/watch?v=aDH-qo-069Q)
 
-<a name="사용된 기술"></a>
+<a name="사용된-기술"></a>
 ## 사용된 기술 🧑‍💻
 - [Python](https://www.python.org/)
 - [Arcade](https://api.arcade.academy/en/latest/#)
