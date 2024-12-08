@@ -7,12 +7,13 @@
   ![image](https://github.com/user-attachments/assets/7bf83d7c-c28e-46f6-956d-86dd0105f492)
 
 ## 목차 📚
-1. 설치 방법
-2. 게임 방법
-3. 게임 플레이 영상
-4. 사용된 기술
-5. 라이센스
+1. [설치 방법](#설치-방법)
+2. [게임 방법](#게임-방법)
+3. [게임 플레이 영상](#게임-플레이-영상)
+4. [사용된 기술](#사용된-기술)
+5. [라이센스](#라이센스)
    
+<a name="설치-방법"></a>
 ## 설치 방법 💡
 1. 본 리포지토리의 [exe/Optlympic.exe](https://github.com/Y0ngjun/Optlympic/blob/main/exe/Optlympic.exe)를 다운로드하세요.  
 2. Optlympic.exe를 실행하면 게임이 시작됩니다.  
@@ -57,5 +58,6 @@
 - [Python](https://www.python.org/)
 - [Arcade](https://api.arcade.academy/en/latest/#)
 
+<a name="라이센스"></a>
 ## 라이센스 📝
 이 게임은 [MIT LICENSE](https://github.com/Y0ngjun/Optlympic?tab=MIT-1-ov-file)를 따릅니다.
